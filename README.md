@@ -145,18 +145,55 @@ Principal Component Analysis successfully reduced the dimensionality of the data
 
 ---
 
-## Author
+## How to Run
 
+### Prerequisites
+
+Make sure Python 3 is installed on your system.
+
+You can verify your installation by running:
+
+```bash
+python --version
+```
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/StephanieBergh/Customer-Churn-Prediction-Model-Python-Machine-Learning-.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd Customer-Churn-Prediction-Model-Python-Machine-Learning-
+
+```
+
+3. Install required packages:
+
+```bash
+pip install notebook numpy pandas matplotlib seaborn scikit-learn
+```
+
+### Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+### Running the Application
+
+Open the program:
+automobiles.ipynb
+
+
+## Author
 **Stephanie Bergh**
 
-Junior Data Analyst | Python | Machine Learning | Data Visualisation
+Junior Data Analyst
 
 GitHub: https://github.com/StephanieBergh
 
 LinkedIn: https://www.linkedin.com/in/stephanie-bergh-142aa818a/
-
----
-
-## License
-
-This project is intended for educational and portfolio purposes.
