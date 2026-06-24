@@ -119,10 +119,9 @@ Silhouette scores were used to evaluate cluster quality and compare clustering a
 ## Repository Structure
 
 ```text
-├── crime_pattern_analysis_pca_clustering.ipynb
-├── UsArrests.csv
 ├── README.md
-└── images/
+├── UsArrests.csv
+└── crime_pattern_analysis_pca_clustering.ipynb
 ```
 
 ---
