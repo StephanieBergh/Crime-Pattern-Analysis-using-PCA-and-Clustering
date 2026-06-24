@@ -162,13 +162,13 @@ python --version
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/StephanieBergh/Customer-Churn-Prediction-Model-Python-Machine-Learning-.git
+git clone https://github.com/StephanieBergh/Crime-Pattern-Analysis-using-PCA-and-Clustering.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd Customer-Churn-Prediction-Model-Python-Machine-Learning-
+cd Crime-Pattern-Analysis-using-PCA-and-Clustering
 
 ```
 
